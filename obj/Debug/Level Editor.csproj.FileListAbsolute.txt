@@ -1,0 +1,31 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level Editor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level_Editor.EditForm.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\Level Editor\Level Editor\obj\Debug\Level_Editor.BitmapSettings.resources
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csprojResolveAssemblyReference.cache
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.BitmapSettings.resources
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.EditForm.resources
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\s201008989\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.BitmapSettings.resources
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.EditForm.resources
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\Daniel\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
